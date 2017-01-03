@@ -1,0 +1,9 @@
+name: trend
+account: coco
+server: shinyapps.io
+appId: 147630
+bundleId: 667366
+url: https://coco.shinyapps.io/trend/
+when: 1483419261.5948
+asMultiple: FALSE
+asStatic: FALSE
