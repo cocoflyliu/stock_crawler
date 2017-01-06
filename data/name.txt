@@ -1,4 +1,5 @@
-﻿每股盈餘,EPS
+﻿chinese,english
+每股盈餘,EPS
 稅後淨利率,NATPM
 股東權益報酬率,ROE
 存貨周轉率(次),IT
